@@ -131,3 +131,5 @@ Mit der Publikation solcher Realitaetsannaehrungen sollte man dann wiederrum abe
 http://www.tickld.com/x/6-management-lessons-that-everyone-should-know
 
 http://www.faqs.org/docs/artu/ch01s06.html
+
+https://github.com/substack/stream-handbook
